@@ -1,0 +1,4 @@
+print("new project not under version control")
+
+cwd()
+getwd()
